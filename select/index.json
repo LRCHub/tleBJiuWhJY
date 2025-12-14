@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Shangri-La Shower",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-14T06:07:15.845604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_Shangri-La_Shower_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/02_Shangri-La_Shower_μ's.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/03_Shangri-La_Shower_Pile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "μ’s",
+      "has_synced": false,
+      "path": "select/04_Shangri-La_Shower_μ’s.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "久保ユリカ",
+      "has_synced": false,
+      "path": "select/05_Shangri-La_Shower_久保ユリカ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/06_Shangri-La_Shower_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "新田恵海",
+      "has_synced": true,
+      "path": "select/07_Shangri-La_Shower_新田恵海.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/08_Shangri-La_Shower_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shangri-La Shower",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/09_Shangri-La_Shower_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/10_Shangri-La_Shower_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/11_Shangri-La_Shower_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/12_Shangri-La_Shower_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (KOTORI Mix)",
+      "artist": "南ことり(CV.内田 彩)",
+      "has_synced": true,
+      "path": "select/13_Shangri-La_Shower_(KOTORI_Mix)_南ことり(CV.内田_彩).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": true,
+      "path": "select/14_Shangri-La_Shower_(MAKI_Mix)_西木野真姫(CV.Pile).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/15_Shangri-La_Shower_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": false,
+      "path": "select/16_Shangri-La_Shower_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": false,
+      "path": "select/17_Shangri-La_Shower_(RIN_Mix)_星空凛(CV.飯田里穂).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/18_Shangri-La_Shower_(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Shangri-La Shower (ELI Mix)",
+      "artist": "絢瀬絵里",
+      "has_synced": true,
+      "path": "select/19_Shangri-La_Shower_(ELI_Mix)_絢瀬絵里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shangri-La Shower",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_Shangri-La_Shower_μ's.txt"
+    }
+  ]
+}
